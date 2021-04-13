@@ -1,0 +1,2530 @@
+{
+  "id": "Project Number",
+  "projectId": "2mBZKtSW5BKwkNNOjDeXNl",
+  "author": "",
+  "createdAt": "2020-12-20T10:36:11",
+  "schema": "IFC2X3",
+  "creatingApplication": "21.0.0.383 - Exporter 21.0.0.383 - Alternate UI 21.0.0.383",
+  "metaObjects": [
+    {
+      "id": "2mBZKtSW5BKwkNNOjDeXNl",
+      "name": "Project Number",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "2mBZKtSW5BKwkNNOjDeXNj",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "2mBZKtSW5BKwkNNOjDeXNl"
+    },
+    {
+      "id": "2mBZKtSW5BKwkNNOjDeXNk",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "2mBZKtSW5BKwkNNOjDeXNj"
+    },
+    {
+      "id": "2mBZKtSW5BKwkNNOkoNUe1",
+      "name": "Level 1",
+      "type": "IfcBuildingStorey",
+      "parent": "2mBZKtSW5BKwkNNOjDeXNk"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mLq",
+      "name": "Basic Wall:Generic - 24\":356451",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mMM",
+      "name": "Basic Wall:Generic - 24\":356481",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mNH",
+      "name": "Basic Wall:Generic - 24\":356550",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mHK",
+      "name": "Basic Wall:Generic - 24\":356675",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mHj",
+      "name": "Basic Wall:Generic - 24\":356730",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mIb",
+      "name": "Basic Wall:Generic - 24\":356786",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mJB",
+      "name": "Basic Wall:Generic - 24\":356828",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mTX",
+      "name": "Basic Wall:Generic - 24\":356982",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mVU",
+      "name": "Basic Wall:Generic - 24\":357065",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mVk",
+      "name": "Basic Wall:Generic - 24\":357113",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mO1",
+      "name": "Basic Wall:Generic - 24\":357142",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mOh",
+      "name": "Basic Wall:Generic - 24\":357180",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mPg",
+      "name": "Basic Wall:Generic - 24\":357245",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mRM",
+      "name": "Basic Wall:Generic - 24\":357313",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0UYbUQ7yPAufiJJCKz$mRY",
+      "name": "Basic Wall:Generic - 24\":357365",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXcV",
+      "name": "Basic Wall:Generic - 24\":357496",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXa5",
+      "name": "Basic Wall:Generic - 24\":357602",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXYE",
+      "name": "Basic Wall:Generic - 24\":357737",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXXb",
+      "name": "Basic Wall:Generic - 24\":357762",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXXJ",
+      "name": "Basic Wall:Generic - 24\":357812",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXW6",
+      "name": "Basic Wall:Generic - 24\":357857",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXlY",
+      "name": "Basic Wall:Generic - 24\":357893",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXja",
+      "name": "Basic Wall:Generic - 24\":358019",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXju",
+      "name": "Basic Wall:Generic - 24\":358047",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXiN",
+      "name": "Basic Wall:Generic - 24\":358128",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXfZ",
+      "name": "Basic Wall:Generic - 24\":358276",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXNn",
+      "name": "Basic Wall:Generic - 24\":358422",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3hEnbRwU94V9VaVow5kXL6",
+      "name": "Basic Wall:Generic - 24\":358561",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6UjC",
+      "name": "Basic Wall:Generic - 24\":358945",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6UhJ",
+      "name": "Basic Wall:Generic - 6\":359358",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Uv_",
+      "name": "Basic Wall:Generic - 12\":360211",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Uu0",
+      "name": "Basic Wall:Generic - 12\":360301",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H4N",
+      "name": "Basic Wall:Generic - 8\":360570",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H1w",
+      "name": "Basic Wall:Generic - 8\":360727",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H0p",
+      "name": "Basic Wall:Generic - 8\":360798",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H3X",
+      "name": "Basic Wall:Generic - 8\":360844",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HCe",
+      "name": "Basic Wall:Generic - 24\":361029",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H8_",
+      "name": "Basic Wall:Generic - 6\":361299",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HB_",
+      "name": "Basic Wall:Generic - 6\":361363",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HMO",
+      "name": "Basic Wall:Generic - 6\":361717",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HSB",
+      "name": "Basic Wall:Generic - 6\":362086",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HV7",
+      "name": "Basic Wall:Generic - 6\":362154",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HRX",
+      "name": "Basic Wall:Generic - 6\":362380",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HQz",
+      "name": "Basic Wall:Generic - 6\":362448",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HbY",
+      "name": "Basic Wall:Generic - 6\":362511",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HaN",
+      "name": "Basic Wall:Generic - 6\":362618",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hcq",
+      "name": "Basic Wall:Generic - 6\":362713",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HXc",
+      "name": "Basic Wall:Generic - 6\":362763",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HW9",
+      "name": "Basic Wall:Generic - 6\":362852",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hjn",
+      "name": "Basic Wall:Generic - 6\":363036",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hl_",
+      "name": "Basic Wall:Generic - 6\":363155",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hks",
+      "name": "Basic Wall:Generic - 6\":363227",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Heh",
+      "name": "Basic Wall:Generic - 6\":363334",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hht",
+      "name": "Basic Wall:Generic - 6\":363418",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hg5",
+      "name": "Basic Wall:Generic - 6\":363496",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hmo",
+      "name": "Basic Wall:Generic - 6\":363871",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HyZ",
+      "name": "Basic Wall:Generic - 6\":364110",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6H_X",
+      "name": "Basic Wall:Generic - 6\":364236",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Hve",
+      "name": "Basic Wall:Generic - 6\":364293",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6HxY",
+      "name": "Basic Wall:Generic - 6\":364431",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6G1p",
+      "name": "Basic Wall:Generic - 6\":364830",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6G01",
+      "name": "Basic Wall:Generic - 6\":364908",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GBr",
+      "name": "Basic Wall:Generic - 6\":365464",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GA1",
+      "name": "Basic Wall:Generic - 6\":365548",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GKh",
+      "name": "Basic Wall:Generic - 6\":365638",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GKS",
+      "name": "Basic Wall:Generic - 6\":365681",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GHS",
+      "name": "Basic Wall:Generic - 6\":365873",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GIO",
+      "name": "Basic Wall:Generic - 6\":366069",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GSR",
+      "name": "Basic Wall:Generic - 6\":366198",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GVH",
+      "name": "Basic Wall:Generic - 6\":366268",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GbS",
+      "name": "Basic Wall:Generic - 24\":366641",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GXt",
+      "name": "Basic Wall:Generic - 8\":366874",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GW2",
+      "name": "Basic Wall:Generic - 6\":366959",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GZ5",
+      "name": "Basic Wall:Generic - 6\":367016",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GY1",
+      "name": "Basic Wall:Generic - 6\":367084",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Gjq",
+      "name": "Basic Wall:Generic - 6\":367129",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Gld",
+      "name": "Basic Wall:Generic - 6\":367242",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GrK",
+      "name": "Basic Wall:Generic - 6\":367673",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GtL",
+      "name": "Basic Wall:Generic - 6\":367800",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GnM",
+      "name": "Basic Wall:Generic - 6\":367931",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6GmS",
+      "name": "Basic Wall:Generic - 6\":367985",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Goc",
+      "name": "Basic Wall:Generic - 6\":368075",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Gzx",
+      "name": "Basic Wall:Generic - 6\":368150",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Gy8",
+      "name": "Basic Wall:Generic - 6\":368229",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Gvg",
+      "name": "Basic Wall:Generic - 6\":368391",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6J47",
+      "name": "Basic Wall:Generic - 6\":368746",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6J6W",
+      "name": "Basic Wall:Generic - 6\":368845",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6J63",
+      "name": "Basic Wall:Generic - 6\":368878",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6J1H",
+      "name": "Basic Wall:Generic - 6\":368956",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6J27",
+      "name": "Basic Wall:Generic - 6\":369130",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JEJ",
+      "name": "Basic Wall:Generic - 6\":369406",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JLT",
+      "name": "Basic Wall:Generic - 6\":369712",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JNv",
+      "name": "Basic Wall:Generic - 6\":369812",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JHe",
+      "name": "Basic Wall:Generic - 6\":369925",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JJy",
+      "name": "Basic Wall:Generic - 6\":370065",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JIm",
+      "name": "Basic Wall:Generic - 6\":370141",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JTC",
+      "name": "Basic Wall:Generic - 6\":370209",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JS5",
+      "name": "Basic Wall:Generic - 6\":370280",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JUj",
+      "name": "Basic Wall:Generic - 6\":370368",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JQ6",
+      "name": "Basic Wall:Generic - 6\":370667",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Jat",
+      "name": "Basic Wall:Generic - 6\":370778",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JdJ",
+      "name": "Basic Wall:Generic - 6\":370878",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JX2",
+      "name": "Basic Wall:Generic - 6\":370991",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Jil",
+      "name": "Basic Wall:Generic - 6\":371266",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JkY",
+      "name": "Basic Wall:Generic - 6\":371407",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JfL",
+      "name": "Basic Wall:Generic - 6\":371512",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Jhn",
+      "name": "Basic Wall:Generic - 6\":371612",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Jnj",
+      "name": "Basic Wall:Generic - 24\":371968",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JpL",
+      "name": "Basic Wall:Generic - 6\":372152",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6JoV",
+      "name": "Basic Wall:Generic - 6\":372210",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Jyo",
+      "name": "Basic Wall:Generic - 24\":372319",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6I7u",
+      "name": "Basic Wall:Generic - 6\":372885",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6I6P",
+      "name": "Basic Wall:Generic - 6\":372980",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6I2l",
+      "name": "Basic Wall:Generic - 6\":373186",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6ICR",
+      "name": "Basic Wall:Generic - 6\":373366",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6I8G",
+      "name": "Basic Wall:Generic - 12\":373629",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IKF",
+      "name": "Basic Wall:Generic - 12\":373858",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IHY",
+      "name": "Basic Wall:Generic - 12\":374031",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IId",
+      "name": "Basic Wall:Generic - 8\":374218",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IVk",
+      "name": "Basic Wall:Generic - 8\":374403",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IUp",
+      "name": "Basic Wall:Generic - 8\":374494",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IPr",
+      "name": "Basic Wall:Generic - 8\":374552",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IR9",
+      "name": "Basic Wall:Generic - 8\":374692",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IcZ",
+      "name": "Basic Wall:Generic - 6\":374990",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IW2",
+      "name": "Basic Wall:Generic - 6\":375151",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IZ1",
+      "name": "Basic Wall:Generic - 6\":375212",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Iip",
+      "name": "Basic Wall:Generic - 6\":375390",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Ikh",
+      "name": "Basic Wall:Generic - 6\":375494",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Ifq",
+      "name": "Basic Wall:Generic - 6\":375577",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Ir4",
+      "name": "Basic Wall:Generic - 6\":375849",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Iqm",
+      "name": "Basic Wall:Generic - 6\":375901",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6It4",
+      "name": "Basic Wall:Generic - 6\":375977",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Imc",
+      "name": "Basic Wall:Generic - 6\":376139",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Io2",
+      "name": "Basic Wall:Generic - 6\":376303",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Izh",
+      "name": "Basic Wall:Generic - 6\":376326",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IyX",
+      "name": "Basic Wall:Generic - 6\":376396",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Iun",
+      "name": "Basic Wall:Generic - 6\":376668",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6IxI",
+      "name": "Basic Wall:Generic - 6\":376767",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6L6S",
+      "name": "Basic Wall:Generic - 6\":377073",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LCz",
+      "name": "Basic Wall:Generic - 12\":377424",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LAp",
+      "name": "Basic Wall:Generic - 24\":377822",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LLh",
+      "name": "Basic Wall:Generic - 24\":377862",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LK_",
+      "name": "Basic Wall:Generic - 24\":377939",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LNh",
+      "name": "Basic Wall:Generic - 6\":377990",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LNU",
+      "name": "Basic Wall:Generic - 6\":378035",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LI4",
+      "name": "Basic Wall:Generic - 6\":378345",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LOi",
+      "name": "Basic Wall:Generic - 6\":378689",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LRa",
+      "name": "Basic Wall:Generic - 6\":378761",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LQi",
+      "name": "Basic Wall:Generic - 6\":378817",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LQK",
+      "name": "Basic Wall:Generic - 6\":378873",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Lav",
+      "name": "Basic Wall:Generic - 6\":378964",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Ld4",
+      "name": "Basic Wall:Generic - 6\":379049",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6Lcm",
+      "name": "Basic Wall:Generic - 6\":379101",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LjK",
+      "name": "Basic Wall:Generic - 6\":379449",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "0WCXI9s3r7IAKG0dbd6LkS",
+      "name": "Basic Wall:Generic - 6\":379633",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQulX",
+      "name": "Basic Wall:Generic - 6\":380121",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQugH",
+      "name": "Basic Wall:Generic - 6\":380329",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQudM",
+      "name": "Basic Wall:Generic - 6\":380654",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQuWL",
+      "name": "Basic Wall:Generic - 6\":380717",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQuYy",
+      "name": "Basic Wall:Generic - 6\":380804",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvTe",
+      "name": "Basic Wall:Generic - 6\":381008",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvT5",
+      "name": "Basic Wall:Generic - 6\":381053",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvU1",
+      "name": "Basic Wall:Generic - 6\":381113",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvP$",
+      "name": "Basic Wall:Generic - 12\":381255",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvI8",
+      "name": "Basic Wall:Generic - 6\":381872",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvCB",
+      "name": "Basic Wall:Generic - 6\":382003",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvEw",
+      "name": "Basic Wall:Generic - 6\":382082",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvEG",
+      "name": "Basic Wall:Generic - 6\":382120",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvFc",
+      "name": "Basic Wall:Generic - 6\":382174",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv8A",
+      "name": "Basic Wall:Generic - 6\":382258",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv9s",
+      "name": "Basic Wall:Generic - 6\":382286",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvBz",
+      "name": "Basic Wall:Generic - 6\":382405",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvB7",
+      "name": "Basic Wall:Generic - 6\":382463",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv5u",
+      "name": "Basic Wall:Generic - 6\":382528",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv6x",
+      "name": "Basic Wall:Generic - 6\":382595",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv6a",
+      "name": "Basic Wall:Generic - 6\":382620",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv7O",
+      "name": "Basic Wall:Generic - 6\":382688",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv2K",
+      "name": "Basic Wall:Generic - 6\":382892",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv38",
+      "name": "Basic Wall:Generic - 6\":382960",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv$n",
+      "name": "Basic Wall:Generic - 6\":383177",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQv$S",
+      "name": "Basic Wall:Generic - 6\":383204",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvu$",
+      "name": "Basic Wall:Generic - 6\":383239",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvu9",
+      "name": "Basic Wall:Generic - 6\":383281",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvwi",
+      "name": "Basic Wall:Generic - 6\":383380",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvxK",
+      "name": "Basic Wall:Generic - 6\":383468",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvqH",
+      "name": "Basic Wall:Generic - 6\":383529",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvtu",
+      "name": "Basic Wall:Generic - 6\":383680",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvm_",
+      "name": "Basic Wall:Generic - 6\":383750",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvnf",
+      "name": "Basic Wall:Generic - 6\":383825",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvpf",
+      "name": "Basic Wall:Generic - 6\":383953",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvlf",
+      "name": "Basic Wall:Generic - 6\":384209",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQveH",
+      "name": "Basic Wall:Generic - 6\":384297",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvh_",
+      "name": "Basic Wall:Generic - 6\":384454",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvaB",
+      "name": "Basic Wall:Generic - 6\":384563",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvcQ",
+      "name": "Basic Wall:Generic - 6\":384674",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvdz",
+      "name": "Basic Wall:Generic - 6\":384709",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvd6",
+      "name": "Basic Wall:Generic - 6\":384766",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvXY",
+      "name": "Basic Wall:Generic - 6\":384858",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQvZO",
+      "name": "Basic Wall:Generic - 6\":384992",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwS$",
+      "name": "Basic Wall:Generic - 6\":385031",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwUe",
+      "name": "Basic Wall:Generic - 6\":385168",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwOu",
+      "name": "Basic Wall:Generic - 6\":385280",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwPy",
+      "name": "Basic Wall:Generic - 6\":385348",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwQm",
+      "name": "Basic Wall:Generic - 6\":385416",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwHn",
+      "name": "Basic Wall:Generic - 6\":385865",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwJY",
+      "name": "Basic Wall:Generic - 6\":386010",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwEO",
+      "name": "Basic Wall:Generic - 6\":386208",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw8X",
+      "name": "Basic Wall:Generic - 6\":386329",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw9$",
+      "name": "Basic Wall:Generic - 6\":386375",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw4j",
+      "name": "Basic Wall:Generic - 6\":386581",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw4N",
+      "name": "Basic Wall:Generic - 6\":386607",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw5T",
+      "name": "Basic Wall:Generic - 12\":386661",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw7d",
+      "name": "Basic Wall:Generic - 12\":386783",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw0w",
+      "name": "Basic Wall:Generic - 12\":386818",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw0d",
+      "name": "Basic Wall:Generic - 12\":386847",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQw_t",
+      "name": "Basic Wall:Generic - 12\":387215",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwsX",
+      "name": "Basic Wall:Generic - 12\":387737",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwtQ",
+      "name": "Basic Wall:Generic - 12\":387810",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwmv",
+      "name": "Basic Wall:Generic - 12\":387841",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwmG",
+      "name": "Basic Wall:Generic - 12\":387880",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwog",
+      "name": "Basic Wall:Generic - 12\":387986",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwo7",
+      "name": "Basic Wall:Generic - 12\":388031",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwpQ",
+      "name": "Basic Wall:Generic - 12\":388066",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwiA",
+      "name": "Basic Wall:Generic - 12\":388146",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwjR",
+      "name": "Basic Wall:Generic - 12\":388195",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwko",
+      "name": "Basic Wall:Generic - 12\":388234",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwlS",
+      "name": "Basic Wall:Generic - 24\":388324",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwhE",
+      "name": "Basic Wall:Generic - 24\":388598",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwb0",
+      "name": "Basic Wall:Generic - 6\":388728",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwcS",
+      "name": "Basic Wall:Generic - 6\":388772",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwdq",
+      "name": "Basic Wall:Generic - 6\":388812",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwXs",
+      "name": "Basic Wall:Generic - 6\":388942",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQwZE",
+      "name": "Basic Wall:Generic - 6\":389110",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxSH",
+      "name": "Basic Wall:Generic - 6\":389161",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxU6",
+      "name": "Basic Wall:Generic - 6\":389310",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxPx",
+      "name": "Basic Wall:Generic - 6\":389443",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxP2",
+      "name": "Basic Wall:Generic - 6\":389498",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxQX",
+      "name": "Basic Wall:Generic - 6\":389529",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxRz",
+      "name": "Basic Wall:Generic - 6\":389573",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxKu",
+      "name": "Basic Wall:Generic - 6\":389632",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxLn",
+      "name": "Basic Wall:Generic - 6\":389705",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxMO",
+      "name": "Basic Wall:Generic - 6\":389792",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxGp",
+      "name": "Basic Wall:Generic - 6\":389899",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxHK",
+      "name": "Basic Wall:Generic - 6\":389996",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxJo",
+      "name": "Basic Wall:Generic - 6\":390090",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxJA",
+      "name": "Basic Wall:Generic - 6\":390130",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxCS",
+      "name": "Basic Wall:Generic - 6\":390180",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxDq",
+      "name": "Basic Wall:Generic - 6\":390220",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxEg",
+      "name": "Basic Wall:Generic - 6\":390290",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx9p",
+      "name": "Basic Wall:Generic - 6\":390475",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxA_",
+      "name": "Basic Wall:Generic - 6\":390534",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx4b",
+      "name": "Basic Wall:Generic - 6\":390685",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx6q",
+      "name": "Basic Wall:Generic - 6\":390796",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx7o",
+      "name": "Basic Wall:Generic - 6\":390858",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxyy",
+      "name": "Basic Wall:Generic - 6\":391172",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxzg",
+      "name": "Basic Wall:Generic - 6\":391250",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx_J",
+      "name": "Basic Wall:Generic - 6\":391339",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQx$L",
+      "name": "Basic Wall:Generic - 6\":391405",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxu9",
+      "name": "Basic Wall:Generic - 6\":391473",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxwu",
+      "name": "Basic Wall:Generic - 6\":391552",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxxT",
+      "name": "Basic Wall:Generic - 6\":391653",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxqX",
+      "name": "Basic Wall:Generic - 6\":391705",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxsO",
+      "name": "Basic Wall:Generic - 6\":391840",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxp7",
+      "name": "Basic Wall:Generic - 6\":392191",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxiS",
+      "name": "Basic Wall:Generic - 6\":392228",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxj4",
+      "name": "Basic Wall:Generic - 6\":392316",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxlc",
+      "name": "Basic Wall:Generic - 6\":392414",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxex",
+      "name": "Basic Wall:Generic - 6\":392451",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxfU",
+      "name": "Basic Wall:Generic - 6\":392550",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxga",
+      "name": "Basic Wall:Generic - 6\":392604",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxhJ",
+      "name": "Basic Wall:Generic - 6\":392683",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxcn",
+      "name": "Basic Wall:Generic - 6\":392841",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxdJ",
+      "name": "Basic Wall:Generic - 6\":392939",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxWN",
+      "name": "Basic Wall:Generic - 6\":393007",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQxZs",
+      "name": "Basic Wall:Generic - 6\":393166",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4SP",
+      "name": "Basic Wall:Generic - 6\":393249",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4Tf",
+      "name": "Basic Wall:Generic - 6\":393297",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4TE",
+      "name": "Basic Wall:Generic - 6\":393334",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4VI",
+      "name": "Basic Wall:Generic - 6\":393450",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4PN",
+      "name": "Basic Wall:Generic - 6\":393583",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4KF",
+      "name": "Basic Wall:Generic - 6\":393783",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4LT",
+      "name": "Basic Wall:Generic - 6\":393829",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4HG",
+      "name": "Basic Wall:Generic - 6\":394088",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4Fk",
+      "name": "Basic Wall:Generic - 6\":394454",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4AZ",
+      "name": "Basic Wall:Generic - 6\":394651",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4BT",
+      "name": "Basic Wall:Generic - 6\":394725",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ45B",
+      "name": "Basic Wall:Generic - 6\":394867",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ47i",
+      "name": "Basic Wall:Generic - 6\":394964",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ40n",
+      "name": "Basic Wall:Generic - 6\":395017",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4zm",
+      "name": "Basic Wall:Generic - 6\":395336",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4_l",
+      "name": "Basic Wall:Generic - 6\":395415",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4$o",
+      "name": "Basic Wall:Generic - 6\":395466",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4uG",
+      "name": "Basic Wall:Generic - 6\":395560",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4wx",
+      "name": "Basic Wall:Generic - 6\":395651",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "2kYcscAXDE1QsJGZXpQ4w4",
+      "name": "Basic Wall:Generic - 6\":395708",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TqH",
+      "name": "Basic Wall:Generic - 6\":396236",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Th3",
+      "name": "Basic Wall:Generic - 6\":396318",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Tlt",
+      "name": "Basic Wall:Generic - 6\":396586",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Tks",
+      "name": "Basic Wall:Generic - 6\":396651",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Tj4",
+      "name": "Basic Wall:Generic - 6\":396697",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TZ1",
+      "name": "Basic Wall:Generic - 6\":396828",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TY2",
+      "name": "Basic Wall:Generic - 6\":396895",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TXm",
+      "name": "Basic Wall:Generic - 6\":396973",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TW5",
+      "name": "Basic Wall:Generic - 6\":397016",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TcN",
+      "name": "Basic Wall:Generic - 6\":397130",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5TbM",
+      "name": "Basic Wall:Generic - 6\":397195",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Tas",
+      "name": "Basic Wall:Generic - 6\":397291",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SQ4",
+      "name": "Basic Wall:Generic - 6\":397401",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SP3",
+      "name": "Basic Wall:Generic - 6\":397470",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SOB",
+      "name": "Basic Wall:Generic - 6\":397526",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SVc",
+      "name": "Basic Wall:Generic - 6\":397627",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SUW",
+      "name": "Basic Wall:Generic - 6\":397693",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5STf",
+      "name": "Basic Wall:Generic - 6\":397748",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SHv",
+      "name": "Basic Wall:Generic - 6\":397988",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SG2",
+      "name": "Basic Wall:Generic - 6\":398047",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SLj",
+      "name": "Basic Wall:Generic - 6\":398256",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SKi",
+      "name": "Basic Wall:Generic - 6\":398321",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SBi",
+      "name": "Basic Wall:Generic - 6\":398385",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SAt",
+      "name": "Basic Wall:Generic - 6\":398442",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S9U",
+      "name": "Basic Wall:Generic - 6\":398467",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S84",
+      "name": "Basic Wall:Generic - 6\":398553",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SFS",
+      "name": "Basic Wall:Generic - 6\":398593",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SFv",
+      "name": "Basic Wall:Generic - 6\":398628",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SE4",
+      "name": "Basic Wall:Generic - 6\":398681",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SEc",
+      "name": "Basic Wall:Generic - 6\":398715",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S3z",
+      "name": "Basic Wall:Generic - 6\":398880",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S1X",
+      "name": "Basic Wall:Generic - 6\":399036",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S08",
+      "name": "Basic Wall:Generic - 6\":399061",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S7T",
+      "name": "Basic Wall:Generic - 6\":399104",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S6J",
+      "name": "Basic Wall:Generic - 6\":399182",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S6e",
+      "name": "Basic Wall:Generic - 6\":399221",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S4a",
+      "name": "Basic Wall:Generic - 6\":399353",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SxB",
+      "name": "Basic Wall:Generic - 6\":399382",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sxe",
+      "name": "Basic Wall:Generic - 6\":399413",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sw9",
+      "name": "Basic Wall:Generic - 6\":399444",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S$6",
+      "name": "Basic Wall:Generic - 6\":399643",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5S_T",
+      "name": "Basic Wall:Generic - 6\":399680",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SzL",
+      "name": "Basic Wall:Generic - 6\":399752",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SyH",
+      "name": "Basic Wall:Generic - 6\":399820",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Spo",
+      "name": "Basic Wall:Generic - 6\":399919",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5So5",
+      "name": "Basic Wall:Generic - 6\":399960",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5StO",
+      "name": "Basic Wall:Generic - 6\":400133",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SsD",
+      "name": "Basic Wall:Generic - 6\":400208",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SrK",
+      "name": "Basic Wall:Generic - 6\":400265",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sqh",
+      "name": "Basic Wall:Generic - 6\":400374",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Shy",
+      "name": "Basic Wall:Generic - 6\":400417",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sg1",
+      "name": "Basic Wall:Generic - 6\":400476",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Seq",
+      "name": "Basic Wall:Generic - 6\":400617",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sln",
+      "name": "Basic Wall:Generic - 6\":400684",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Skg",
+      "name": "Basic Wall:Generic - 6\":400759",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sje",
+      "name": "Basic Wall:Generic - 6\":400821",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SZe",
+      "name": "Basic Wall:Generic - 6\":400949",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SY$",
+      "name": "Basic Wall:Generic - 6\":400994",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Sd7",
+      "name": "Basic Wall:Generic - 6\":401178",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5ScU",
+      "name": "Basic Wall:Generic - 6\":401219",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SbG",
+      "name": "Basic Wall:Generic - 6\":401293",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5SbX",
+      "name": "Basic Wall:Generic - 6\":401340",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VRT",
+      "name": "Basic Wall:Generic - 6\":401408",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VRe",
+      "name": "Basic Wall:Generic - 6\":401461",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VPF",
+      "name": "Basic Wall:Generic - 6\":401554",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VVU",
+      "name": "Basic Wall:Generic - 6\":401667",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VUU",
+      "name": "Basic Wall:Generic - 6\":401731",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VUg",
+      "name": "Basic Wall:Generic - 6\":401783",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VHy",
+      "name": "Basic Wall:Generic - 6\":402081",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VGD",
+      "name": "Basic Wall:Generic - 6\":402128",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VGg",
+      "name": "Basic Wall:Generic - 6\":402167",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VMW",
+      "name": "Basic Wall:Generic - 6\":402301",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V8U",
+      "name": "Basic Wall:Generic - 6\":402627",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VEO",
+      "name": "Basic Wall:Generic - 24\":402757",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V3K",
+      "name": "Basic Wall:Generic - 24\":402953",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V2U",
+      "name": "Basic Wall:Generic - 24\":403011",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V2_",
+      "name": "Basic Wall:Generic - 24\":403043",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V1U",
+      "name": "Basic Wall:Generic - 24\":403075",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V0C",
+      "name": "Basic Wall:Generic - 24\":403153",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V7m",
+      "name": "Basic Wall:Generic - 24\":403245",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V43",
+      "name": "Basic Wall:Generic - 6\":403422",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vxo",
+      "name": "Basic Wall:Generic - 6\":403503",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VwC",
+      "name": "Basic Wall:Generic - 6\":403537",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VvO",
+      "name": "Basic Wall:Generic - 6\":403589",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vvy",
+      "name": "Basic Wall:Generic - 6\":403617",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vur",
+      "name": "Basic Wall:Generic - 6\":403688",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5V_V",
+      "name": "Basic Wall:Generic - 6\":403778",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vzl",
+      "name": "Basic Wall:Generic - 6\":403890",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VoR",
+      "name": "Basic Wall:Generic - 6\":404038",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VnN",
+      "name": "Basic Wall:Generic - 6\":404106",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vm6",
+      "name": "Basic Wall:Generic - 6\":404187",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VtD",
+      "name": "Basic Wall:Generic - 6\":404240",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VtX",
+      "name": "Basic Wall:Generic - 6\":404284",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vq7",
+      "name": "Basic Wall:Generic - 6\":404442",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vg0",
+      "name": "Basic Wall:Generic - 6\":404573",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vfg",
+      "name": "Basic Wall:Generic - 6\":404663",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vef",
+      "name": "Basic Wall:Generic - 6\":404724",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VkO",
+      "name": "Basic Wall:Generic - 6\":404805",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5VYL",
+      "name": "Basic Wall:Generic - 6\":405064",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vb0",
+      "name": "Basic Wall:Generic - 6\":405405",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5Vad",
+      "name": "Basic Wall:Generic - 6\":405498",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5URs",
+      "name": "Basic Wall:Generic - 6\":405547",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5URY",
+      "name": "Basic Wall:Generic - 6\":405567",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UQr",
+      "name": "Basic Wall:Generic - 6\":405608",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UO6",
+      "name": "Basic Wall:Generic - 6\":405723",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UOe",
+      "name": "Basic Wall:Generic - 6\":405749",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UVs",
+      "name": "Basic Wall:Generic - 6\":405803",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UUM",
+      "name": "Basic Wall:Generic - 6\":405835",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UUa",
+      "name": "Basic Wall:Generic - 6\":405881",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UTz",
+      "name": "Basic Wall:Generic - 6\":405920",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UGb",
+      "name": "Basic Wall:Generic - 6\":406264",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UNf",
+      "name": "Basic Wall:Generic - 6\":406324",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UL$",
+      "name": "Basic Wall:Generic - 8\":406434",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UBW",
+      "name": "Basic Wall:Generic - 8\":406589",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UAk",
+      "name": "Basic Wall:Generic - 8\":406643",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5U9q",
+      "name": "Basic Wall:Generic - 8\":406697",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UFB",
+      "name": "Basic Wall:Generic - 8\":406806",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UFY",
+      "name": "Basic Wall:Generic - 8\":406847",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5UEi",
+      "name": "Basic Wall:Generic - 6\":406897",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5U7P",
+      "name": "Basic Wall:Generic - 6\":407300",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    },
+    {
+      "id": "3w_MTg6tT59QzMcrwA5U4R",
+      "name": "Basic Wall:Generic - 8\":407494",
+      "type": "IfcWallStandardCase",
+      "parent": "2mBZKtSW5BKwkNNOkoNUe1"
+    }
+  ]
+}

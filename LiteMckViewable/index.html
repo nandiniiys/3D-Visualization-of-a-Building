@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>3D View of UMB's McCormack</title>
+    <style>
+        html, body { 
+          background-color:#000;
+          margin: 0;
+          padding: 0;
+          height: 100%;
+          overflow: hidden !important;  
+        }
+
+        #myCanvas {
+            width: 100%;
+            height: 100%;
+            background: black;
+        }
+    </style>
+
+</head>
+
+<body>
+<canvas id="myCanvas"></canvas>
+</body>
+<script type="module">
+
+    //------------------------------------------------------------------------------------------------------------------
+    // Import needed modules to load XKT models
+    //------------------------------------------------------------------------------------------------------------------
+
+    import {Viewer} from "./src/viewer/Viewer.js";
+    import {XKTLoaderPlugin} from "./src/plugins/XKTLoaderPlugin/XKTLoaderPlugin.js";
+
+    // TEST TEXTURE LOADING
+    import {Mesh} from "./src/viewer/scene/mesh/Mesh.js";
+    import {buildTorusGeometry} from "./src/viewer/scene/geometry/builders/buildTorusGeometry.js";
+    import {ReadableGeometry} from "./src/viewer/scene/geometry/ReadableGeometry.js";
+    import {PhongMaterial} from "./src/viewer/scene/materials/PhongMaterial.js";
+    import {Texture} from "./src/viewer/scene/materials/Texture.js";
+    // END TEST 
+
+    //------------------------------------------------------------------------------------------------------------------
+    // Create a Viewer and the arrange the camera positioning
+    //------------------------------------------------------------------------------------------------------------------
+
+    const viewer = new Viewer({
+        canvasId: "myCanvas",
+        transparent: true
+    });
+
+    viewer.scene.camera.eye = [10.45, 17.38, -98.31];
+    viewer.scene.camera.look = [43.09, 0.5, -26.76];
+    viewer.scene.camera.up = [0.06, 0.96, 0.16];
+
+    viewer.scene.selectedMaterial.fillAlpha = 0.1;
+
+    //----------------------------------------------------------------------------------------------------------------------
+    // Create an XKT loader plugin using the viewer we created earlier
+    //----------------------------------------------------------------------------------------------------------------------
+
+    const xktLoader = new XKTLoaderPlugin(viewer);
+
+    //var t0 = performance.now();
+
+    //----------------------------------------------------------------------------------------------------------------------
+    // Use the xktLoader to load McCormack buildings' 1st floor as an XKT file and its metadata as a JSON file.
+    //----------------------------------------------------------------------------------------------------------------------
+
+    const mck1 = xktLoader.load({
+        id: "myModel",
+        src: "./models/Mck01.xkt",
+        metaModelSrc: "./models/Mck01.json", // Creates a MetaObject instances in scene.metaScene.metaObjects
+        position: [0, 0, 0],
+        edges: true
+    });
+
+    //----------------------------------------------------------------------------------------------------------------------
+    // Use the xktLoader to load McCormack buildings' 2nd floor as an XKT file and its metadata as a JSON file.
+    //----------------------------------------------------------------------------------------------------------------------
+
+    const mck2 = xktLoader.load({
+        id: "myModel2",
+        src: "./models/Mck02.xkt",
+        metaModelSrc: "./models/Mck02.json", // Creates a MetaObject instances in scene.metaScene.metaObjects
+        position: [-0.3, 6, -6.65], // adjust the position of floor 2 to fit on top of floor 1
+        edges: true
+    });
+
+    const mck3 = xktLoader.load({
+        id: "myModel3",
+        src: "./models/Mck03.xkt",
+        metaModelSrc: "./models/Mck03.json", // Creates a MetaObject instances in scene.metaScene.metaObjects
+        position: [-14, 12, 9.35], // adjust the position of floor 3 to fit on top of floor 1
+        edges: true
+    });
+
+    const mck4 = xktLoader.load({
+        id: "myModel4",
+        src: "./models/Mck04.xkt",
+        metaModelSrc: "./models/Mck04.json", // Creates a MetaObject instances in scene.metaScene.metaObjects
+        position: [-14, 18, 1], // adjust the position of floor 4 to fit on top of floor 1
+        edges: true
+    });
+
+    /*
+    // TEST TEXTURE MAPPING
+    new Mesh(viewer.scene, {
+        geometry: mck1,
+        material: new PhongMaterial(viewer.scene, {
+            ambient: [0.9, 0.3, 0.9],
+            shininess: 30,
+            diffuseMap: new Texture(viewer.scene, {
+            src: "textures/images.jpg"
+            })
+        })
+    });
+    // END TEST
+    */
+
+</script>
+</html>
