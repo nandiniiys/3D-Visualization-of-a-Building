@@ -1,18 +1,18 @@
 import sys
 
 file = sys.argv[1]
-floors = sys.argv[2]
+floors = int(sys.argv[2]) + 1
 
 
 index = open('index.html','w')
 template = open('htmlTemplate.txt', 'r')
 Lines = template.readlines()
 template.close()
- 
-for line in Lines:
-    index.write("{}\n".format(line.strip()))
 
-for floor in range(1, int(floors) + 1):
+for line in Lines:
+	index.write("{}\n".format(line.strip().replace("$tab$", "	")))
+
+for floor in range(1, floors):
 	index.write("	const {}{} = xktLoader.load(".format(file, floor))
 	index.write("{\n")
 	index.write("		id: \"myModel\",\n")
