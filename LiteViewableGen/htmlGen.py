@@ -15,7 +15,7 @@ for line in Lines:
 for floor in range(1, floors):
 	index.write("	const {}{} = xktLoader.load(".format(file, floor))
 	index.write("{\n")
-	index.write("		id: \"myModel\",\n")
+	index.write("		id: \"myModel{}\",\n".format(floor))
 	index.write("		src: \"./models/{}{}.xkt\",\n".format(file, floor))
 	index.write("		metaModelSrc: \"./models/{}{}.json\",\n".format(file, floor))
 	index.write("		position: [0, 0, 0],\n")
