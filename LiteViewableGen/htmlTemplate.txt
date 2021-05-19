@@ -128,7 +128,7 @@ $tab$window.onload = function() {
 $tab$$tab$controller = {                                                   
 $tab$$tab$// console.log("controller");
 $tab$$tab$"Project Paper" : function() {
-$tab$$tab$$tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/<add-paper-link-here>')
+$tab$$tab$$tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/blob/main/3D_buildingVisualization.pdf')
 $tab$$tab$},
 $tab$$tab$"Github Project Repo" : function() {
 $tab$$tab$$tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/')
