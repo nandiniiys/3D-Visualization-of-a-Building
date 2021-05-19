@@ -23,8 +23,8 @@ python3 modelGen.py <buildingname> <numofFloors>
 An index.html file will be generated within the same folder at completion of this script run, launch the index.html file using Github pages or a python server to visualize your building.
 
 ## Project Information and Credits
-**Thesis Advisor:** Professor Daniel Haehn <br/>
-**Thesis Mentor:** Loraine Franke
+**Thesis Advisor:** [Professor Daniel Haehn](https://danielhaehn.com) <br/>
+**Thesis Mentor:** [Loraine Franke](https://github.com/lorifranke)
   
 I would like to thank my Thesis Advisor, Professor Daniel Haehn and my Thesis Mentor, Loraine Franke for guiding me throughout the project. I would like to thank them for sharing their knowledge in this field, exposing me to new technologies and new approaches towards solving problems, and most of all for their patience through all my ups and downs in this project.
 
