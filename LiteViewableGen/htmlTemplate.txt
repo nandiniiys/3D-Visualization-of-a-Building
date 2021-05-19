@@ -35,7 +35,7 @@ $tab$$tab$$tab$display: inline;
 $tab$$tab$}
 
 $tab$$tab$#arrow-right {
-$tab$$tab$$tab$color: #00FF00;
+$tab$$tab$$tab$color: #DC143C;
 $tab$$tab$$tab$font-size: 1.2em;
 $tab$$tab$$tab$display: inline;
 $tab$$tab$}
@@ -45,10 +45,10 @@ $tab$$tab$$tab$color: white;
 $tab$$tab$$tab$position: relative;
 $tab$$tab$$tab$display: inline-block;
 $tab$$tab$$tab$font-size: 1.5em;
-$tab$$tab$$tab$border-bottom: 5px double #00FF00;
-$tab$$tab$$tab$border-top: 5px double #00FF00;
-$tab$$tab$$tab$border-left: 5px double #00FF00;
-$tab$$tab$$tab$border-right: 5px double #00FF00;
+$tab$$tab$$tab$border-bottom: 5px double #800080;
+$tab$$tab$$tab$border-top: 5px double #4169E1;
+$tab$$tab$$tab$border-left: 5px double #C71585;
+$tab$$tab$$tab$border-right: 5px double #20B2AA;
 $tab$$tab$}
 
 $tab$$tab$.tooltip .tooltiptext {
@@ -125,32 +125,36 @@ $tab$</h1>
 <script src="https://threejs.org/examples/js/libs/dat.gui.min.js" type="text/javascript"></script>
 <script>
 $tab$window.onload = function() {
-        controller = {                                                   
-          // console.log("controller");
-          "Project Paper" : function() {
-          $tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/<add-paper-link-here>')
-          },
-          "Github Project Repo" : function() {
-          $tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/')
-          },
-          "Nandinii Github" : function() {
-          $tab$window.open('https://github.com/nandiniiys/')
-          },
-          "Daniel Website" : function() {
-          $tab$window.open('https://danielhaehn.com')
-          }
-        };
+$tab$$tab$controller = {                                                   
+$tab$$tab$// console.log("controller");
+$tab$$tab$"Project Paper" : function() {
+$tab$$tab$$tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/<add-paper-link-here>')
+$tab$$tab$},
+$tab$$tab$"Github Project Repo" : function() {
+$tab$$tab$$tab$window.open('https://github.com/nandiniiys/3D-Visualization-of-a-Building/')
+$tab$$tab$},
+$tab$$tab$"Nandinii Github" : function() {
+$tab$$tab$$tab$window.open('https://github.com/nandiniiys/')
+$tab$$tab$},
+$tab$$tab$"Daniel Website" : function() {
+$tab$$tab$$tab$window.open('https://danielhaehn.com')
+$tab$$tab$},
+$tab$$tab$"Loraine Github" : function() {
+$tab$$tab$$tab$window.open('https://github.com/lorifranke')
+$tab$$tab$}
+$tab$};
 $tab$$tab$ //console.log("before");
-        var gui = new dat.GUI();
-        var info = gui.addFolder('Project Information');
-        info.add(controller, 'Project Paper');
-        info.add(controller, 'Github Project Repo');
-        info.add(controller, 'Nandinii Github');
-        info.add(controller, 'Daniel Website');
-        info.open()
+$tab$$tab$var gui = new dat.GUI();
+$tab$$tab$var info = gui.addFolder('Project Information');
+$tab$$tab$info.add(controller, 'Project Paper');
+$tab$$tab$info.add(controller, 'Github Project Repo');
+$tab$$tab$info.add(controller, 'Nandinii Github');
+$tab$$tab$info.add(controller, 'Daniel Website');
+$tab$$tab$info.add(controller, 'Loraine Github');
+$tab$$tab$info.open()
         
-        //console.log("after");
-        animate()
+$tab$$tab$//console.log("after");
+$tab$$tab$animate()
 $tab$};
 </script>
 

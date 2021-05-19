@@ -5,13 +5,13 @@
 	<title>3D Visualization of a building</title>
 	<style>
 		#myNavCubeCanvas {
-            position: absolute;
-            width: 250px;
-            height: 250px;
-            bottom: 50px;
-            right: 10px;
-            z-index: 200000;
-        }
+			position: absolute;
+			width: 250px;
+			height: 250px;
+			bottom: 50px;
+			right: 10px;
+			z-index: 200000;
+		}
 		#myCanvas {
 			width: 100%;
 			height: 100%;
@@ -35,7 +35,7 @@
 		}
 
 		#arrow-right {
-			color: #00FF00;
+			color: #DC143C;
 			font-size: 1.2em;
 			display: inline;
 		}
@@ -45,10 +45,10 @@
 			position: relative;
 			display: inline-block;
 			font-size: 1.5em;
-			border-bottom: 5px double #00FF00;
-			border-top: 5px double #00FF00;
-			border-left: 5px double #00FF00;
-			border-right: 5px double #00FF00;
+			border-bottom: 5px double #800080;
+			border-top: 5px double #4169E1;
+			border-left: 5px double #C71585;
+			border-right: 5px double #20B2AA;
 		}
 
 		.tooltip .tooltiptext {
@@ -162,7 +162,7 @@ animate()
 
 	import {Viewer} from "./src/viewer/Viewer.js";
 	import {XKTLoaderPlugin} from "./src/plugins/XKTLoaderPlugin/XKTLoaderPlugin.js";
-	import {NavCubePlugin} from "./src/plugins/NavCubePlugin/NavCubePlugin.js";
+		import {NavCubePlugin} from "./src/plugins/NavCubePlugin/NavCubePlugin.js";
 
 
 	//------------------------------------------------------------------------------------------------------------------
@@ -181,13 +181,13 @@ animate()
 	viewer.scene.selectedMaterial.fillAlpha = 0.1;
 
 	new NavCubePlugin(viewer, {
-        canvasId: "myNavCubeCanvas",
-        visible: true,
-        size: 250,
-        alignment: "bottomRight",
-        bottomMargin: 100,
-        rightMargin: 10
-    });
+		canvasId: "myNavCubeCanvas",
+		visible: true,
+		size: 250,
+		alignment: "bottomRight",
+		bottomMargin: 100,
+		rightMargin: 10
+	});
 
 	//----------------------------------------------------------------------------------------------------------------------
 	// Create an XKT loader plugin using the viewer we created earlier
@@ -195,38 +195,40 @@ animate()
 
 	const xktLoader = new XKTLoaderPlugin(viewer);
 
+	//------------------------------------------------------------------------------------------------------------------
+	// Mouse over entities to highlight them
+	//------------------------------------------------------------------------------------------------------------------
+
 	var lastEntity = null;
 
-    viewer.scene.input.on("mousemove", function (coords) {
+	viewer.scene.input.on("mousemove", function (coords) {
 
-        var hit = viewer.scene.pick({
-            canvasPos: coords
-        });
+		var hit = viewer.scene.pick({
+			canvasPos: coords
+		});
 
-        if (hit) {
+		if (hit) {
 
-            if (!lastEntity || hit.entity.id !== lastEntity.id) {
+			if (!lastEntity || hit.entity.id !== lastEntity.id) {
 
-                if (lastEntity) {
-                    lastEntity.highlighted = false;
-                }
+				if (lastEntity) {
+					lastEntity.highlighted = false;
+				}
 
-                lastEntity = hit.entity;
-                hit.entity.highlighted = true;
-            }
-        } else {
+				lastEntity = hit.entity;
+				hit.entity.highlighted = true;
+			}
+		} else {
 
-            if (lastEntity) {
-                lastEntity.highlighted = false;
-                lastEntity = null;
-            }
-        }
-    });
+			if (lastEntity) {
+				lastEntity.highlighted = false;
+				lastEntity = null;
+			}
+		}
+	});
 
-	//----------------------------------------------------------------------------------------------------------------------
-	// Use the xktLoader to load the buildings' 1st floor as an XKT file and its metadata as a JSON file.
-	//----------------------------------------------------------------------------------------------------------------------
-//FloorLoadingStart
+
+//Use the xktLoader to load data on all teh floors in the building.
 	const Mck1 = xktLoader.load({
 		id: "myModel1",
 		src: "./models/Mck1.xkt",
@@ -238,23 +240,22 @@ animate()
 		id: "myModel2",
 		src: "./models/Mck2.xkt",
 		metaModelSrc: "./models/Mck2.json",
-		position: [-0.3, 6, -6.65],
+		position: [0, 0, 0],
 		edges: true
 	});
 	const Mck3 = xktLoader.load({
 		id: "myModel3",
 		src: "./models/Mck3.xkt",
 		metaModelSrc: "./models/Mck3.json",
-		position: [-14, 12, 9.35],
+		position: [0, 0, 0],
 		edges: true
 	});
 	const Mck4 = xktLoader.load({
 		id: "myModel4",
 		src: "./models/Mck4.xkt",
 		metaModelSrc: "./models/Mck4.json",
-		position: [-14, 18, 1],
+		position: [0, 0, 0],
 		edges: true
 	});
-    
 </script>
 </html>
