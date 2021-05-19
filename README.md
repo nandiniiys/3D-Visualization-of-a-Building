@@ -25,6 +25,8 @@ An index.html file will be generated within the same folder at completion of thi
 ## Project Information and Credits
 **Thesis Advisor:** Professor Daniel Haehn <br/>
 **Thesis Mentor:** Loraine Franke
+  
+I would like to thank my Thesis Advisor, Professor Daniel Haehn and my Thesis Mentor, Loraine Franke for guiding me throughout the project. I would like to thank them for sharing their knowledge in this field, exposing me to new technologies and new approaches towards solving problems, and most of all for their patience through all my ups and downs in this project.
 
 We thank the Assistant Campus Planner at the University of Massachusetts Boston - Simon Myles - for providing us with access to the campus blueprints, creator of Xeokit at Xeolabs - Lindsay Kay - for his help in learning how to use aspects of the Xeokit APIs, and one of the authors of the Deep Floor Plan Recognition using a Multi-task Network with Room-boundary-Guided Attention ICCV paper, Zhiliang Zeng - for his advice and support in learning how to adapt the code associated with the paper to our dataset. We thank them all for their patient and informative assistance throughout the course of this project.
 
