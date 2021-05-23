@@ -4,7 +4,7 @@
 Open a new tab on any browser you would like to use and navigate to the following URL:
 
 ```
-https://nandiniiys.github.io/3D-Visualization-of-a-Building/LiteMckViewable/index.html
+https://nandiniiys.github.io/LiteMckViewable/index.html
 ```
 
 ## To run the 3D Visualization of your own building data
@@ -20,7 +20,9 @@ Run the following comand on the terminal:
 ```
 python3 modelGen.py <buildingname> <numofFloors>
 ```
-An index.html file will be generated within the same folder at completion of this script run, launch the index.html file using Github pages or a python server to visualize your building.
+An index.html file will be generated within the same folder at completion of this script run, launch the index.html file using python local testing server to visualize your building.
+  
+To use Github pages to deploy the index.html file, create a new Repository containing only the XKT and JSON files within the models folder, the src folder, and the index.html file. You can then activate Github pages on the new repo and use pages to launch the site.
 
 ## Project Information and Credits
 **Thesis Advisor:** [Professor Daniel Haehn](https://danielhaehn.com) <br/>
